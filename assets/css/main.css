@@ -4,18 +4,17 @@ body{
 
 #wrapper{
     border: 1px solid saddlebrown;
-    /* height: 400px; */
 }
 
 .row{
     border: 1px solid slateblue;
-    margin: 20px auto;
-    height: 400px;
+
+  
 
 }
 
 .row div{
-    height: 150px;
+   
     border: 1px solid hotpink;
 
 }
